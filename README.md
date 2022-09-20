@@ -2,7 +2,7 @@ This is the first assignment on github in the Berkeley ML & AI Course
 
 The data file coupons.csv is in the /data folder of the repository.
 
-The main highlights of the analysis are
+## The main highlights of the analysis are
 
     a) About 57% of the participants chose to accept a coupon overall.
     
